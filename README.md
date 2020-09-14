@@ -6,7 +6,7 @@ I am Ayushi Jain.  I am currently pursuing B.Tech in Chemical Engineering in the
 
 - :blush: I am currently working on a deep learning and NLP project.
 
-- :memo: I have used sci-kit learn, TensorFlow, and Keras libraries.
+- :memo: I have used sci-kit learn, TensorFlow, and Keras.
 
 - :dart: I am seeking an opportunity to implement my programming and Machine Learning skills in a practical application which will give me exposure to the actual design and execution processes of the industry.
 
